@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: pink;
+  color: rgb(0, 0, 0);
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  position: fixed; /* Fixes navbar at the top */
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: pink; /* Keeps the pink theme */
+  text-align: center;
+  padding: 15px 0;
+  z-index: 1000; /* Ensures navbar stays above all content */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Adds a slight shadow */
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+.pink-theme {
+  background-color: #ff69b4;
+  padding: 15px;
+}
+
+.book-card {
+  background: white;
+  color: black;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+.search-bar {
+  padding: 8px;
+  margin: 10px 0;
+}
