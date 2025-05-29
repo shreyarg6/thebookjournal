@@ -1,3 +1,4 @@
-# bookjournal (Website Recreation)
-This is my recreation of a book search/review site (Goodreads).
-https://shreyarg6.github.io/thebookjournal/#/
+# BookJournal 
+This is my recreation of the book review/search site Goodreads with a twist. <br>
+Search and add books to your favorites to find them later!
+Link to the site: https://shreyarg6.github.io/thebookjournal/#/
